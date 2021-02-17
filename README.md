@@ -17,12 +17,11 @@
 </p>
 
 ##
-<p align="center">"Be not afraid of greatness.<br>
-Some are born great,<br>
-some achieve greatness,<br>
-and others have greatness thrust upon them."</p>
+<p align="center">"Take care of the minutes<br>
+and the hours will<br>
+take care of themselves."</p>
 
-<p align="center"><em>-William Shakespeare</em></p><br><br>
+<p align="center"><em>- Lord Chesterfield</em></p><br>
 
 
 ```python
