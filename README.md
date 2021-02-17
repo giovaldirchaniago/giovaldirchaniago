@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-##
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 </p>
@@ -44,6 +43,7 @@ print(current_time)
                                                     /MacOS
 ```
 
+<p align="center">scan me
 <p align="center">
 	<img width="300" src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/IMG_6822.jpg">
 </p>
