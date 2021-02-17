@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center">•PYTHON•R•SQL•HTML•CSS•<br>
+<p align="center">• PYTHON • R • SQL • HTML • CSS •<br>
 	
 <p align="center">
 	<img height="500" width="600" src="https://media.giphy.com/media/3oxRmgZTLdUMKAef72/giphy.gif">
