@@ -22,15 +22,27 @@ Some are born great,<br>
 some achieve greatness,<br>
 and others have greatness thrust upon them."</p>
 
-<p align="center"><em>-William Shakespeare</em></p>
+<p align="center"><em>-William Shakespeare</em></p><br><br>
+
+
+```python
+
+import time
+
+t = time.localtime()
+current_time = time.strftime("%H:%M:%S", t)
+print(current_time)
+```
+#
+| Data Collection | Data Preparation | Choose a Model | Train the Model | Evaluate the Model | Hyperparameter Tuning | Make Predictions |
+| --- | --- | --- | --- | --- | --- | --- |
+#
+
 
 ```text
                                                     /MacOS
 ```
-<br>
-<p align="center">
-scan for more information
-</p>
+
 <p align="center">
 	<img width="300" src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/IMG_6822.jpg">
 </p>
