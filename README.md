@@ -39,7 +39,7 @@ print(current_time)
 #
 
 ```text
-                                                      ..
+                                                       ..
 ```
 <p align="center">click for verify
 <p align="center">
