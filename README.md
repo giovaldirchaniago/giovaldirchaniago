@@ -34,12 +34,12 @@ current_time = time.strftime("%H:%M:%S", t)
 print(current_time)
 ```
 #
-| Data Collection | Data Preparation | Choose a Model | Train the Model | Evaluate the Model | Hyperparameter Tuning | Make Predictions |
+| Gathering data | Data preparation | Choosing a model | Training | Evaluation | Hyperparameter Tuning | Prediction |
 | --- | --- | --- | --- | --- | --- | --- |
 #
 
 ```text
-                                                         ..
+                                                          ..
 ```
 <p align="center">click for verify
 <p align="center">
