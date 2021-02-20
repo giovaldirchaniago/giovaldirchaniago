@@ -39,7 +39,7 @@ print(current_time)
 #
 
 ```text
-                                                       ..
+                                                         ..
 ```
 <p align="center">click for verify
 <p align="center">
@@ -47,7 +47,7 @@ print(current_time)
 </p>
 
 ```text
-                                                    /MacOS
+                                                      /MacOS
 ```
 <p align="center">scan me
 <p align="center">
