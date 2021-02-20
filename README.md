@@ -38,11 +38,17 @@ print(current_time)
 | --- | --- | --- | --- | --- | --- | --- |
 #
 
+```text
+                                                      ..
+```
+<p align="center">click for verify
+<p align="center">
+  <a href="https://www.youracclaim.com/badges/430dc9b7-3d40-4c5b-887f-a439b7ace365/public_url"><img src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/data-science-orientation.png" alt="GiovaldiRC" width="150" height="150"></a>
+</p>
 
 ```text
                                                     /MacOS
 ```
-
 <p align="center">scan me
 <p align="center">
 	<img width="300" src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/IMG_6822.jpg">
