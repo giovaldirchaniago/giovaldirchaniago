@@ -44,11 +44,12 @@ print(current_time)
 #
 
 ```text
-                                                          ..
+                                                       BADGES
 ```
-<p align="center">click for verify
+<p align="center">click to verify
 <p align="center">
   <a href="https://www.youracclaim.com/badges/430dc9b7-3d40-4c5b-887f-a439b7ace365/public_url"><img src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/data-science-orientation.png" alt="GiovaldiRC" width="150" height="150"></a>
+  <a href="https://www.youracclaim.com/badges/dae8e3ec-43fe-4b62-af68-7b834c7014b9/public_url"><img src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/tools-for-data-science.png" alt="GiovaldiRC" width="150" height="150"></a>
 </p>
 
 ```text
