@@ -7,7 +7,7 @@
 <pre><p align="center"><h1>P      O      R      T      F      O      L      I      O </h1></pre>
 
 
-<p align="center">
+<p align="right">
 	<a href="https://giovaldirchaniago.github.io/">website format</a>
 </p>
 
@@ -19,7 +19,7 @@
 <p align="center">• PYTHON • R • SQL • HTML • CSS •<br>
 	
 <p align="center">
-	<img height="500" width="600" src="https://media.giphy.com/media/3oxRmgZTLdUMKAef72/giphy.gif">
+	<img height="500" width="600" src="https://github.com/giovaldirchaniago/giovaldirchaniago/blob/main/pic-1.jpg">
 </p>
 
 ##
